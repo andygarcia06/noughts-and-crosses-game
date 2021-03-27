@@ -19,6 +19,26 @@ h2 {
     width:20%;
 }
 
+.i {
+    width: 20%;
+    margin: auto;
+    font-size : 40px;
+    color: #262525;
+    text-align: center;
+    padding-top: 50px;
+    transition: transform .2s; 
+}
+
+.i:hover{
+    transform: scale(1.1);
+}
+
+a {
+    color: #262525 ;
+}
+
+
+
 
 .container {
     display: grid;
